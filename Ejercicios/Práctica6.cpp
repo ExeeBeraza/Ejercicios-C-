@@ -13,6 +13,7 @@ int main()
     while (i < 4 && notas <= 10){
 
         cout << "hola";
+        cout << "heui";
         cout << "Ingrese su nota N°" << i << ": ";
 
         cin >> notas;
